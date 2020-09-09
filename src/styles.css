@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+
+html, body {
+    background-image: url('assets/bk1.jpg');
+    background-size: auto;
+    height: 100%;
+    background-color: transparent;
+
+}
+
+.jumbotron{
+    margin: 0.5rem 3rem;
+}
+
+.navbar {
+    padding:0rem 1rem 0rem 0rem! important;
+    background-color: transparent;
+    background: rgb(0 0 0 / 0%);
+  }
+
+  .week{
+      margin-left: auto!important;
+      margin-right:auto!important;
+  }
+
